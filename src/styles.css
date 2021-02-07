@@ -1,0 +1,47 @@
+.main-container {
+  background-color: #f2f2f2;
+  padding: 20px 0px;
+}
+
+.main-card-title {
+  font-weight: bold;
+}
+
+.users-dropdown {
+  padding: 10px 0px;
+  margin: auto;
+}
+
+.detail-row {
+  padding: 10px 0px;
+}
+
+.posts-count {
+  font-weight: bold;
+  color: gray;
+  padding: 10px 0px;
+}
+
+.posts-list  {
+  max-height: 467px;
+  overflow-y: scroll;
+}
+
+.post-card {
+  border-bottom-style: none;
+}
+
+.post-title {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.post-body {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  color: gray;
+}
